@@ -1,1 +1,1 @@
-web: gunicorn ecomprj.wsgi --preload
+web: gunicorn backend.wsgi --preload
